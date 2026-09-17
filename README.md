@@ -26,5 +26,5 @@ AI Tax Filing Tool is a Java-based application that helps users calculate taxes,
 4. Run Main.java
 
 ## Author
-Sharmila Jambu
+Sharmila Jambu,
 Seeni priyamani
